@@ -1,1 +1,1 @@
-Olá, esse projeto demonstra a minha evolução no aprendizado de Python.#Python
+Olá, esse repositório demonstra a minha evolução em Python.#Python
